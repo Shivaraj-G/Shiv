@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA4A-012B
+
+ Directory of C:\Users\TYSS\Desktop\Kiki
+
+05-02-2019  13:53    <DIR>          .
+05-02-2019  13:53    <DIR>          ..
+05-02-2019  13:53                 0 kiki.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  129,401,995,264 bytes free
